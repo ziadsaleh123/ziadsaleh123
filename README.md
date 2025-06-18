@@ -35,5 +35,5 @@ I'm a software developer with a strong passion for creating visually appealing a
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedelkashef15&hide_progress=true) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ziadsaleh123_weight=0.5&count_weight=0.5)
 <br>
-<a href="https://komarev.com/ghpvc/?username=https://github.com/ziadsaleh123&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=https://github.com/ziadsaleh123&style=for-the-badge">
+<a href="https://komarev.com/ghpvc/?username=ziadsaleh123&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=ziadsaleh123&style=for-the-badge">
